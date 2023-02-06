@@ -1,0 +1,15 @@
+C:\Users\CifronPro\Desktop\1laba\1laba\bin\Debug\net6.0\1laba.exe
+C:\Users\CifronPro\Desktop\1laba\1laba\bin\Debug\net6.0\1laba.deps.json
+C:\Users\CifronPro\Desktop\1laba\1laba\bin\Debug\net6.0\1laba.runtimeconfig.json
+C:\Users\CifronPro\Desktop\1laba\1laba\bin\Debug\net6.0\1laba.dll
+C:\Users\CifronPro\Desktop\1laba\1laba\bin\Debug\net6.0\1laba.pdb
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\1laba.csproj.AssemblyReference.cache
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\1laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\1laba.AssemblyInfoInputs.cache
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\1laba.AssemblyInfo.cs
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\1laba.csproj.CoreCompileInputs.cache
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\1laba.dll
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\refint\1laba.dll
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\1laba.pdb
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\1laba.genruntimeconfig.cache
+C:\Users\CifronPro\Desktop\1laba\1laba\obj\Debug\net6.0\ref\1laba.dll
